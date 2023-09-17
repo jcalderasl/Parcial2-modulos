@@ -28,8 +28,9 @@
 // module/aggregator.js
 import * as Calculos from './Calculos.js';
 import * as ConversionUnidades from './ConversionUnidades.js';
-import * as Galeria from './Galeria.js'; // Asegúrate de importar Galeria.js
+import * as Galeria from './Galeria.js'; 
 import * as ListaTareas from './ListaTareas.js';
+import * as ListaTareas from './GeneradorContraseñas.js';
 
 export * from './Calculos.js';
 export * from './ConversionUnidades.js';
